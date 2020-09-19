@@ -6,3 +6,4 @@ Objectives:
 3. understand and apply intercultural communication skills while collaborating on diverse teams
 4. understand and apply best practices in computer programming and agile development
 5. improve technological literacy as well as programming self-efficacy and identity
+6. improve communicationship 
